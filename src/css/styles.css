@@ -189,4 +189,37 @@ td{
   body {
     font-size: 14px;
   }
-}
+  header ul{
+    
+    list-style-type: none;
+    gap: 10px;
+    padding-top: 0px;
+    text-align: center;
+    }
+    .page{
+      margin: 30px;
+    }
+    #about{
+    gap: 10px;
+    margin: 30px;
+    }
+   #accomplishment{
+    margin: 30px;
+    gap: 10px;
+  }
+  #favorite{
+    margin: 30px;
+    gap: 10px;
+  }
+  .comment{
+   margin: 30px;
+   gap: 10px;
+  }
+  .footer{
+    margin: 30px;
+    gap: 10px;
+    height: 40px;
+    background-color: black;
+  }
+ }
+  
